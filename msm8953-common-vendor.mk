@@ -19,13 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8953-common/proprietary/bin/ipacm-diag:system/bin/ipacm-diag \
     vendor/motorola/msm8953-common/proprietary/bin/ptt_socket_app:system/bin/ptt_socket_app \
     vendor/motorola/msm8953-common/proprietary/bin/radish:system/bin/radish \
-    vendor/motorola/msm8953-common/proprietary/etc/acdbdata/Bluetooth_cal.acdb:system/etc/acdbdata/Bluetooth_cal.acdb \
-    vendor/motorola/msm8953-common/proprietary/etc/acdbdata/General_cal.acdb:system/etc/acdbdata/General_cal.acdb \
-    vendor/motorola/msm8953-common/proprietary/etc/acdbdata/Global_cal.acdb:system/etc/acdbdata/Global_cal.acdb \
-    vendor/motorola/msm8953-common/proprietary/etc/acdbdata/Handset_cal.acdb:system/etc/acdbdata/Handset_cal.acdb \
-    vendor/motorola/msm8953-common/proprietary/etc/acdbdata/Hdmi_cal.acdb:system/etc/acdbdata/Hdmi_cal.acdb \
-    vendor/motorola/msm8953-common/proprietary/etc/acdbdata/Headset_cal.acdb:system/etc/acdbdata/Headset_cal.acdb \
-    vendor/motorola/msm8953-common/proprietary/etc/acdbdata/Speaker_cal.acdb:system/etc/acdbdata/Speaker_cal.acdb \
     vendor/motorola/msm8953-common/proprietary/etc/cacert_location.pem:system/etc/cacert_location.pem \
     vendor/motorola/msm8953-common/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
     vendor/motorola/msm8953-common/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
