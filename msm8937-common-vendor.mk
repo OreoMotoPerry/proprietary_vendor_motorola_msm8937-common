@@ -701,6 +701,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8937-common/proprietary/vendor/lib64/libsdm-diag.so:system/vendor/lib64/libsdm-diag.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib64/libsdm-disp-vndapis.so:system/vendor/lib64/libsdm-disp-vndapis.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib64/libsdmextension.so:system/vendor/lib64/libsdmextension.so \
+    vendor/motorola/msm8937-common/proprietary/vendor/lib64/libsecureui_svcsock.so:system/vendor/lib64/libsecureui_svcsock.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib64/libsensorndkbridge.so:system/vendor/lib64/libsensorndkbridge.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib64/libsettings.so:system/vendor/lib64/libsettings.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib64/libslimclient.so:system/vendor/lib64/libslimclient.so \
