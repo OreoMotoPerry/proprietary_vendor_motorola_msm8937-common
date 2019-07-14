@@ -492,6 +492,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8937-common/proprietary/vendor/lib/mmi_vibrator.so:system/vendor/lib/mmi_vibrator.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib/mmi_wifi.so:system/vendor/lib/mmi_wifi.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib/motcamera.device@1.0-impl.so:/system/vendor/lib/motcamera.device@1.0-impl.so \
+    vendor/motorola/msm8937-common/proprietary/vendor/lib/motorola.hardware.audio.adspd@1.0-impl.so:/system/lib/motorola.hardware.audio.adspd@1.0-impl.so \
+    vendor/motorola/msm8937-common/proprietary/vendor/lib/motorola.hardware.audio.adspd@1.0_vendor.so:/system/lib/motorola.hardware.audio.adspd@1.0_vendor.so \
+    vendor/motorola/msm8937-common/proprietary/vendor/lib/motorola.hardware.audio.adspd@1.0.so:/system/lib/motorola.hardware.audio.adspd@1.0.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib/motorola.hardware.camera.device@1.0.so:/system/vendor/lib/motorola.hardware.camera.device@1.0.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib/motorola.hardware.camera.device@1.0_vendor.so:/system/vendor/lib/motorola.hardware.camera.device@1.0_vendor.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib/motorola.hardware.camera.provider@2.4.so:/system/vendor/lib/motorola.hardware.camera.provider@2.4.so \
@@ -719,6 +722,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8937-common/proprietary/vendor/lib64/libxml.so:system/vendor/lib64/libxml.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib64/libxtadapter.so:system/vendor/lib64/libxtadapter.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib64/libxtwifi_ulp_adaptor.so:system/vendor/lib64/libxtwifi_ulp_adaptor.so \
+    vendor/motorola/msm8937-common/proprietary/vendor/lib64/motorola.hardware.audio.adspd@1.0.so:/system/lib64/motorola.hardware.audio.adspd@1.0.so \
+    vendor/motorola/msm8937-common/proprietary/vendor/lib64/motorola.hardware.audio.adspd@1.0-impl.so:/system/lib64/motorola.hardware.audio.adspd@1.0-impl.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib64/mediadrm/libwvdrmengine.so:system/vendor/lib64/mediadrm/libwvdrmengine.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib64/vendor.display.color@1.0_vendor.so:system/vendor/lib64/vendor.display.color@1.0_vendor.so \
     vendor/motorola/msm8937-common/proprietary/vendor/lib64/vendor.display.postproc@1.0_vendor.so:system/vendor/lib64/vendor.display.postproc@1.0_vendor.so \
